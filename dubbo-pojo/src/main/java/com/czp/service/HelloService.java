@@ -9,5 +9,8 @@ package com.czp.service;/**
  */
 public interface HelloService {
 
+    /**
+     * jiekou
+     */
     public void sayHello();
 }
