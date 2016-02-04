@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-consume/dubbo-consume.iml" filepath="$PROJECT_DIR$/dubbo-consume/dubbo-consume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-pojo/dubbo-pojo.iml" filepath="$PROJECT_DIR$/dubbo-pojo/dubbo-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" filepath="$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chengyun/mydemo/mydemo.iml" filepath="$PROJECT_DIR$/../chengyun/mydemo/mydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wsclient/wsclient.iml" filepath="$PROJECT_DIR$/wsclient/wsclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wsdemo/wsdemo.iml" filepath="$PROJECT_DIR$/wsdemo/wsdemo.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="dubbo-provider:war exploded">
+    <output-path>$PROJECT_DIR$/dubbo-provider/target/dubbo-provider</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="dubbo-provider/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="dubbo-provider" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="dubbo-pojo-1.0.jar">
+            <element id="module-output" name="dubbo-pojo" />
+          </element>
+          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.0-beta8" />
+          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.0-beta8" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:3.2.3.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.1" />
+          <element id="library" level="project" name="Maven: com.alibaba:dubbo:2.5.3" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.15.0-GA" />
+          <element id="library" level="project" name="Maven: org.jboss.netty:netty:3.2.5.Final" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
